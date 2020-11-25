@@ -166,8 +166,6 @@ Swift学习资源 Swift 学习资料汇总，比较详细总结了常用的资�
 Swift Lang 一门很专业的并行编程语言，有苹果在Swift页面的链接，肯定带过去很多访问量。
 OpenStack Swift OpenStack Object Storage (Swift)。
 Swift 聊天工具 基于XMPP的聊天工具及服务端SDK。
-Taylor Swift 美国乡村音乐女創作歌手、吉他歌手、演员。这位1989年出生的美女获得过数不清的格莱美奖及其它排行榜大奖。2014/05/30刚举办了泰勒•斯威夫特“红”巡演上海演唱会。WWDC2014之后三天，她从Google搜索结果首页被挤出，很受伤，歌迷们也很受伤。去脸盆网关注她，去音悦台听她的歌。
-讨论区
 
 【iOS开发者-开始Swift】QQ交流群812144991 申请时请说明身份。
 Stargazers over time
