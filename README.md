@@ -7,12 +7,6 @@ Swift在iOS 8发布的时候推向市场，用来取代 Objective-C 语言。 �
 
 在 Swift 开源后，开发者社区活跃。目前 CocoaPods 中有大量的第三方开发库已经支持 Swift。
 
-贡献
-
-提交 PR - iOS-Swift-Demos
-加入 QQ群 32958950
-官方资源
-
 Swift 开发者社区 - Swift.org
 Swift 代码库
 Apple developer 的 Swift 首页
