@@ -138,21 +138,8 @@ Agent Minimalistic Swift HTTP request agent for iOS and OS X
 JustUiKit - JustUiKit是一套Android样式工具iOS UI套件。 JustUiKit包含JustLinearLayout，JustFrameLayout, JustRelativeLayout等。 它旨在使Android开发人员轻松构建iOS UI。 也为iOS开发人员提供了一种新的方式来构建UI。
 开发工具
 
-xcode 6 下载
-
-xcode 6 安装系统要求为MacOSX 10.9.3+
-
-http://pan.baidu.com/s/1dD2AJ3j
-xcode_6.0.1.dmg http://pan.baidu.com/s/1sjNQY1B
-xcode_6.dmg http://pan.baidu.com/s/1jGoTsWm_
-xcode_6_beta_6.dmg http://pan.baidu.com/s/1dD3qeOT
-xcode_6_beta_4.dmg http://pan.baidu.com/s/1pJ0nkJx
-xcode_6_beta_3.dmg http://pan.baidu.com/s/1nt0WS8T
-其它
-
 iOS Developer Library
 Chris Lattner Swift设计者
-iOS 7.1 to iOS 8.0 API Differences
 App Extensions Increase Your Impact
 Swift学习资源 Swift 学习资料汇总，比较详细总结了常用的资源。
 因为重名躺枪的 Swift
