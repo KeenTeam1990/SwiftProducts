@@ -38,9 +38,6 @@ The Swift Programming Language 社区译中文版
 
 Stanford University: Developing iOS 9 Apps with Swift
 Plymouth University: iOS Development in Swift
-非官方文档与社区（英文）
-
-初级话题
 
 StackOverflow上的Swift讨论
 github上的swift内容 search结果
@@ -62,8 +59,6 @@ Composing functions in Swift
 Advanced Swift
 We ❤ Swift
 LEARNABLE PROGRAMMING Designing a programming system for understanding programs
-把《The Swift Programming Language》读薄 by Hawstein
-深入话题
 
 Swift Operators by Mattt Thompson
 Beginning Core Image in Swift
@@ -99,7 +94,7 @@ QQ群 iOS开发者-开始Swift，群号：32958950，申请时请说明身份。
 评论
 
 《关于 Swift 的一点初步看法》 by onevcat
-《行走于 Swift 的世界中》 by onevcat 更详细的一篇评论
+
 《来自苹果的编程语言——Swift简介》
 课程
 
