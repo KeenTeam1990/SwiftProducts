@@ -98,17 +98,12 @@ QQ群 iOS开发者-开始Swift，群号：32958950，申请时请说明身份。
 《来自苹果的编程语言——Swift简介》
 课程
 
-《SwiftV课堂》 免费Swift学习视频
-《Apple Swift语言基础教程》极客学院
-官方示例
-
 Apple同时发布了3个示例程序，用于初窥Swift开发的项目。
 
 Lister: A Productivity App Built in Swift github
 UICatalog: Creating and Customizing UIKit Controls in Swift apple / github
 Adventure: Building a SpriteKit Game Using Swift apple / github
 GestureRecognizers: Using standard UIGestureRecognizers in Swift github
-非官方代码分享
 
 Swift Trending
 FlappySwift 用Swift实现的FlappyBird
@@ -117,7 +112,7 @@ PNChart-Swift 可以创建图表的库
 Game of Life 一个游戏
 swift-alarm 基于地理位置的提醒工具 blog
 SwiftNote
-翻翻看 游戏翻翻看Swift版
+
 HackerNews HackerNews网站的第三方客户端
 SwiftWeather 一个天气客户端
 SwiftSingleton
@@ -144,4 +139,3 @@ OpenStack Swift OpenStack Object Storage (Swift)。
 Swift 聊天工具 基于XMPP的聊天工具及服务端SDK。
 
 【iOS开发者-开始Swift】QQ交流群812144991 申请时请说明身份。
-Stargazers over time
