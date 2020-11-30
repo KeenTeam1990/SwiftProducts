@@ -84,14 +84,10 @@ https://www.v2ex.com/go/swift
 http://swift.sh
 http://swift-china.org
 CocoaChina的Swift讨论区
-QQ群 iOS开发者-开始Swift，群号：32958950，申请时请说明身份。
-翻译
 
 《The Swift Programming Language》中文版 （协作翻译)）第一份完整的中文翻译
 
 《Apple Swift编程语言入门教程》比较早期的一篇翻译，最近没有更新
-
-评论
 
 《关于 Swift 的一点初步看法》 by onevcat
 
