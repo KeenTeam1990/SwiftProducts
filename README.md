@@ -13,9 +13,7 @@ Apple developer 的 Swift 首页
 Swift Blog
 Swift Resources
 Swift Playgrounds Learn Swift on iPad
-苹果官网的 Swift 页面
-Xcode
-权威文档
+苹果官网的 Swift 页面 Xcode 权威文档
 
 The Swift Programming Language - The Definitive Book
 Online Version
@@ -30,11 +28,8 @@ Swift Standard Library API Reference
 Start Developing iOS Apps
 API Design Guidelines
 Swift Programming Language Evolution
-WWDC2014 Videos
-社区文档
 
-The Swift Programming Language 社区译中文版
-课程
+The Swift Programming Language 社区译中文版课程
 
 Stanford University: Developing iOS 9 Apps with Swift
 Plymouth University: iOS Development in Swift
