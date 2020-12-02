@@ -81,14 +81,8 @@ http://swift-china.org
 CocoaChina的Swift讨论区
 
 《The Swift Programming Language》中文版 （协作翻译)）第一份完整的中文翻译
-
 《Apple Swift编程语言入门教程》比较早期的一篇翻译，最近没有更新
-
 《关于 Swift 的一点初步看法》 by onevcat
-
-《来自苹果的编程语言——Swift简介》
-课程
-
 Apple同时发布了3个示例程序，用于初窥Swift开发的项目。
 
 Lister: A Productivity App Built in Swift github
