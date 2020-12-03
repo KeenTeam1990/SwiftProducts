@@ -116,8 +116,6 @@ JustUiKit - JustUiKit是一套Android样式工具iOS UI套件。 JustUiKit包含
 iOS Developer Library
 Chris Lattner Swift设计者
 App Extensions Increase Your Impact
-Swift学习资源 Swift 学习资料汇总，比较详细总结了常用的资源。
-因为重名躺枪的 Swift
 
 Swift Lang 一门很专业的并行编程语言，有苹果在Swift页面的链接，肯定带过去很多访问量。
 OpenStack Swift OpenStack Object Storage (Swift)。
