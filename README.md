@@ -26,8 +26,6 @@ Start Developing iOS Apps
 API Design Guidelines
 Swift Programming Language Evolution
 
-The Swift Programming Language 社区译中文版课程
-
 Stanford University: Developing iOS 9 Apps with Swift
 Plymouth University: iOS Development in Swift
 
@@ -109,7 +107,6 @@ SwiftyJSON
 Agent Minimalistic Swift HTTP request agent for iOS and OS X
 JustUiKit - JustUiKit是一套Android样式工具iOS UI套件。 JustUiKit包含JustLinearLayout，JustFrameLayout, JustRelativeLayout等。 它旨在使Android开发人员轻松构建iOS UI。 也为iOS开发人员提供了一种新的方式来构建UI。
 开发工具
-App Extensions Increase Your Impact
 
 Swift Lang 一门很专业的并行编程语言，有苹果在Swift页面的链接，肯定带过去很多访问量。
 OpenStack Swift OpenStack Object Storage (Swift)。
