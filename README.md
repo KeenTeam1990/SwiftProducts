@@ -85,14 +85,6 @@ UICatalog: Creating and Customizing UIKit Controls in Swift apple / github
 Adventure: Building a SpriteKit Game Using Swift apple / github
 GestureRecognizers: Using standard UIGestureRecognizers in Swift github
 
-Swift Trending
-FlappySwift 用Swift实现的FlappyBird
-swift-2048
-PNChart-Swift 可以创建图表的库
-Game of Life 一个游戏
-swift-alarm 基于地理位置的提醒工具 blog
-SwiftNote
-
 HackerNews HackerNews网站的第三方客户端
 SwiftWeather 一个天气客户端
 SwiftSingleton
