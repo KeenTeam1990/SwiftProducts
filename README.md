@@ -70,11 +70,6 @@ Swift Sequences and lazy evaluation
 SPACESHIP OPERATOR IN SWIFT 和 REGULAR EXPRESSIONS IN SWITCH STATEMENTS by Venkat Peri
 社区
 
-https://www.v2ex.com/go/swift
-http://swift.sh
-http://swift-china.org
-CocoaChina的Swift讨论区
-
 Lister: A Productivity App Built in Swift github
 UICatalog: Creating and Customizing UIKit Controls in Swift apple / github
 Adventure: Building a SpriteKit Game Using Swift apple / github
